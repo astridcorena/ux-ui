@@ -1,3 +1,17 @@
+Página de Github sin registrar
+Menú: Global
+Formulario: local o supelementaria.
+Write better code, Manage your chaos, find the right tools: Contextual
+Learn about Github for Business: local
+Compare plans: local
+Learn about integrations: local
+links de fotos: local
+open source community, developers, business: Contextual
+terms of service and privacy policy: En línea
+
+
+
+
 1. Header
 Background
 Logo
